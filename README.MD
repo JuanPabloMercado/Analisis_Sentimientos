@@ -146,4 +146,5 @@ El enfoque combinado de polaridad y subjetividad aporta una visión más rica y 
 9. Autor
 
 Juan Palo Mercado - Analista de Datos
+
 Proyecto orientado a análisis exploratorio, visualización y comunicación de insights.
