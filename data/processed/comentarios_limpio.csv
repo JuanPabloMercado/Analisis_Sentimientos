@@ -1,0 +1,100 @@
+id,usuario,comentario,fecha,fuente
+1,ana,does not apply,2025-01-01,sin fuente
+2,ana,"it doesn't work, i am very disappointed",2025-01-02,app
+3,rocio,very good experience,2025-01-02,encuesta
+4,martin,very good experience,2025-01-04,encuesta
+5,sofia,"i loved the service, everything very fast",2025-01-04,encuesta
+6,diego,"correct, no surprises",2025-01-06,web
+7,anonimo_na,"very bad service, i do not recommend it",2025-01-07,web
+8,lucas,"i loved the service, everything very fast",2025-01-08,app
+9,carla,"excellent service, i would return without hesitation",2025-01-09,app
+10,martin,does not apply,2025-01-10,app
+11,martin,"correct, no surprises",2025-01-11,app
+12,sofia,does not apply,2025-01-12,web
+13,diego,"as expected, nothing more nothing less",2025-01-13,app
+14,facundo,"they took forever, terrible",2025-01-14,app
+15,anonimo_na,"they took forever, terrible",2025-01-14,app
+16,carla,average.,2025-01-16,app
+17,maria,does not apply,2025-01-17,web
+18,ana,"they took forever, terrible",2025-01-18,app
+19,facundo,acceptable.,2025-01-19,encuesta
+20,carla,does not apply,2025-01-20,web
+21,carla,average.,2025-01-21,app
+22,ana,"as expected, nothing more nothing less",2025-01-22,web
+23,diego,does not apply,2025-01-23,encuesta
+24,diego,does not apply,2025-01-24,encuesta
+25,sofia,the product never arrived,2025-01-25,sin fuente
+26,maria,"it's fine, nothing special",2025-01-26,app
+27,maria,"correct, no surprises",2025-01-27,encuesta
+28,sofia,average.,2025-01-28,web
+29,martin,the product arrived earlier than expected,2025-01-29,app
+30,carla,"it doesn't work, i am very disappointed",2025-01-30,app
+31,martin,"they took forever, terrible",2025-01-31,web
+32,sofia,acceptable.,2025-02-01,web
+33,facundo,"i loved the service, everything very fast",2025-02-03,app
+35,facundo,very good experience,2025-02-03,encuesta
+36,diego,"everything perfect, highly recommended",2025-02-05,web
+37,facundo,"they took forever, terrible",2025-02-06,web
+38,diego,"very bad service, i do not recommend it",2025-02-07,encuesta
+39,maria,"i loved the service, everything very fast",2025-02-08,web
+40,martin,does not apply,2025-02-09,web
+41,maria,acceptable.,2025-02-10,app
+42,maria,very good experience,2025-02-11,app
+43,rocio,"everything perfect, highly recommended",2025-02-12,encuesta
+44,sofia,"as expected, nothing more nothing less",2025-02-13,app
+45,ana,very good experience,2025-02-14,sin fuente
+46,juan,"i loved the service, everything very fast",2025-02-15,app
+47,carla,does not apply,2025-02-16,web
+48,juan,"it doesn't work, i am very disappointed",2025-02-16,sin fuente
+49,ana,very good experience,2025-02-16,app
+50,lucas,"everything perfect, highly recommended",2025-02-19,webe
+51,sofia,the product arrived earlier than expected,2025-02-20,webe
+52,maria,does not apply,2025-02-21,encuesta
+53,rocio,does not apply,2025-02-22,web
+54,facundo,"very bad service, i do not recommend it",2025-02-23,app
+55,carla,"very bad service, i do not recommend it",2025-02-24,webe
+56,facundo,"as expected, nothing more nothing less",2025-02-25,web
+57,anonimo_na,"very bad service, i do not recommend it",2025-02-26,app
+58,diego,average.,2025-02-27,encuesta
+59,facundo,they do not fulfill what they promise,2025-02-28,encuesta
+60,rocio,"excellent service, i would return without hesitation",2025-03-01,web
+61,rocio,"as expected, nothing more nothing less",2025-03-02,web
+62,ana,does not apply,2025-03-03,sin fuente
+63,carla,"as expected, nothing more nothing less",2025-03-04,encuesta
+64,sofia,"they took forever, terrible",2025-03-05,web
+65,martin,does not apply,2025-03-06,web
+66,juan,"excellent service, i would return without hesitation",2025-03-06,app
+67,facundo,acceptable.,2025-03-08,app
+68,diego,the product never arrived,2025-03-09,encuesta
+69,martin,the product never arrived,2025-03-10,sin fuente
+70,diego,"as expected, nothing more nothing less",2025-03-11,encuesta
+71,carla,does not apply,2025-03-12,web
+72,maria,"it doesn't work, i am very disappointed",2025-03-13,encuesta
+73,sofia,does not apply,2025-03-14,app
+74,anonimo_na,average.,2025-03-15,encuesta
+75,rocio,they do not fulfill what they promise,2025-03-16,app
+76,martin,the product never arrived,2025-03-17,encuesta
+77,maria,the product never arrived,2025-03-18,web
+78,facundo,"correct, no surprises",2025-03-19,app
+79,diego,"it's fine, nothing special",2025-03-20,sin fuente
+80,juan,very good experience,2025-03-21,encuesta
+81,ana,does not apply,2025-03-22,encuesta
+82,juan,the product never arrived,2025-03-23,webe
+83,lucas,"correct, no surprises",2025-03-24,app
+84,maria,the product arrived earlier than expected,2025-03-25,app
+85,facundo,does not apply,2025-03-26,app
+86,sofia,the product never arrived,2025-03-27,webe
+87,carla,does not apply,2025-03-28,app
+88,carla,"it doesn't work, i am very disappointed",2025-03-29,app
+89,carla,"correct, no surprises",2025-03-30,sin fuente
+90,juan,acceptable.,2025-03-31,sin fuente
+91,diego,"as expected, nothing more nothing less",2025-04-01,sin fuente
+92,rocio,"it doesn't work, i am very disappointed",2025-04-01,web
+93,facundo,they do not fulfill what they promise,2025-04-03,webe
+94,rocio,does not apply,2025-04-04,encuesta
+95,martin,does not apply,2025-04-05,sin fuente
+96,sofia,"it doesn't work, i am very disappointed",2025-04-06,webe
+97,lucas,"i loved the service, everything very fast",2025-04-07,app
+98,carla,very good experience,2025-04-08,web
+99,maria,the product never arrived,2025-04-09,web
+100,maria,"it doesn't work, i am very disappointed",2025-04-10,app

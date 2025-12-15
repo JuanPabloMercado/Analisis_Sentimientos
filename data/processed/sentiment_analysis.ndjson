@@ -1,0 +1,99 @@
+{"id":1,"usuario":"ana","comentario":"does not apply","fecha":"2025-01-01","fuente":"sin fuente","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":2,"usuario":"ana","comentario":"it doesn't work, i am very disappointed","fecha":"2025-01-02","fuente":"app","polarity":-0.98,"subjectivity":0.98,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":3,"usuario":"rocio","comentario":"very good experience","fecha":"2025-01-02","fuente":"encuesta","polarity":0.91,"subjectivity":0.78,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":4,"usuario":"martin","comentario":"very good experience","fecha":"2025-01-04","fuente":"encuesta","polarity":0.91,"subjectivity":0.78,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":5,"usuario":"sofia","comentario":"i loved the service, everything very fast","fecha":"2025-01-04","fuente":"encuesta","polarity":0.48,"subjectivity":0.79,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":6,"usuario":"diego","comentario":"correct, no surprises","fecha":"2025-01-06","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":7,"usuario":"anonimo_na","comentario":"very bad service, i do not recommend it","fecha":"2025-01-07","fuente":"web","polarity":-0.91,"subjectivity":0.87,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":8,"usuario":"lucas","comentario":"i loved the service, everything very fast","fecha":"2025-01-08","fuente":"app","polarity":0.48,"subjectivity":0.79,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":9,"usuario":"carla","comentario":"excellent service, i would return without hesitation","fecha":"2025-01-09","fuente":"app","polarity":1.0,"subjectivity":1.0,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":10,"usuario":"martin","comentario":"does not apply","fecha":"2025-01-10","fuente":"app","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":11,"usuario":"martin","comentario":"correct, no surprises","fecha":"2025-01-11","fuente":"app","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":12,"usuario":"sofia","comentario":"does not apply","fecha":"2025-01-12","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":13,"usuario":"diego","comentario":"as expected, nothing more nothing less","fecha":"2025-01-13","fuente":"app","polarity":0.08,"subjectivity":0.32,"cuadrante":"Q4 (Positivo - Objetivo)"}
+{"id":14,"usuario":"facundo","comentario":"they took forever, terrible","fecha":"2025-01-14","fuente":"app","polarity":-1.0,"subjectivity":1.0,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":15,"usuario":"anonimo_na","comentario":"they took forever, terrible","fecha":"2025-01-14","fuente":"app","polarity":-1.0,"subjectivity":1.0,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":16,"usuario":"carla","comentario":"average.","fecha":"2025-01-16","fuente":"app","polarity":-0.15,"subjectivity":0.4,"cuadrante":"Q3 (Negativo - Objetivo)"}
+{"id":17,"usuario":"maria","comentario":"does not apply","fecha":"2025-01-17","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":18,"usuario":"ana","comentario":"they took forever, terrible","fecha":"2025-01-18","fuente":"app","polarity":-1.0,"subjectivity":1.0,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":19,"usuario":"facundo","comentario":"acceptable.","fecha":"2025-01-19","fuente":"encuesta","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":20,"usuario":"carla","comentario":"does not apply","fecha":"2025-01-20","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":21,"usuario":"carla","comentario":"average.","fecha":"2025-01-21","fuente":"app","polarity":-0.15,"subjectivity":0.4,"cuadrante":"Q3 (Negativo - Objetivo)"}
+{"id":22,"usuario":"ana","comentario":"as expected, nothing more nothing less","fecha":"2025-01-22","fuente":"web","polarity":0.08,"subjectivity":0.32,"cuadrante":"Q4 (Positivo - Objetivo)"}
+{"id":23,"usuario":"diego","comentario":"does not apply","fecha":"2025-01-23","fuente":"encuesta","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":24,"usuario":"diego","comentario":"does not apply","fecha":"2025-01-24","fuente":"encuesta","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":25,"usuario":"sofia","comentario":"the product never arrived","fecha":"2025-01-25","fuente":"sin fuente","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":26,"usuario":"maria","comentario":"it's fine, nothing special","fecha":"2025-01-26","fuente":"app","polarity":0.39,"subjectivity":0.54,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":27,"usuario":"maria","comentario":"correct, no surprises","fecha":"2025-01-27","fuente":"encuesta","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":28,"usuario":"sofia","comentario":"average.","fecha":"2025-01-28","fuente":"web","polarity":-0.15,"subjectivity":0.4,"cuadrante":"Q3 (Negativo - Objetivo)"}
+{"id":29,"usuario":"martin","comentario":"the product arrived earlier than expected","fecha":"2025-01-29","fuente":"app","polarity":-0.05,"subjectivity":0.45,"cuadrante":"Q3 (Negativo - Objetivo)"}
+{"id":30,"usuario":"carla","comentario":"it doesn't work, i am very disappointed","fecha":"2025-01-30","fuente":"app","polarity":-0.98,"subjectivity":0.98,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":31,"usuario":"martin","comentario":"they took forever, terrible","fecha":"2025-01-31","fuente":"web","polarity":-1.0,"subjectivity":1.0,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":32,"usuario":"sofia","comentario":"acceptable.","fecha":"2025-02-01","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":33,"usuario":"facundo","comentario":"i loved the service, everything very fast","fecha":"2025-02-03","fuente":"app","polarity":0.48,"subjectivity":0.79,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":35,"usuario":"facundo","comentario":"very good experience","fecha":"2025-02-03","fuente":"encuesta","polarity":0.91,"subjectivity":0.78,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":36,"usuario":"diego","comentario":"everything perfect, highly recommended","fecha":"2025-02-05","fuente":"web","polarity":0.58,"subjectivity":0.77,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":37,"usuario":"facundo","comentario":"they took forever, terrible","fecha":"2025-02-06","fuente":"web","polarity":-1.0,"subjectivity":1.0,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":38,"usuario":"diego","comentario":"very bad service, i do not recommend it","fecha":"2025-02-07","fuente":"encuesta","polarity":-0.91,"subjectivity":0.87,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":39,"usuario":"maria","comentario":"i loved the service, everything very fast","fecha":"2025-02-08","fuente":"web","polarity":0.48,"subjectivity":0.79,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":40,"usuario":"martin","comentario":"does not apply","fecha":"2025-02-09","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":41,"usuario":"maria","comentario":"acceptable.","fecha":"2025-02-10","fuente":"app","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":42,"usuario":"maria","comentario":"very good experience","fecha":"2025-02-11","fuente":"app","polarity":0.91,"subjectivity":0.78,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":43,"usuario":"rocio","comentario":"everything perfect, highly recommended","fecha":"2025-02-12","fuente":"encuesta","polarity":0.58,"subjectivity":0.77,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":44,"usuario":"sofia","comentario":"as expected, nothing more nothing less","fecha":"2025-02-13","fuente":"app","polarity":0.08,"subjectivity":0.32,"cuadrante":"Q4 (Positivo - Objetivo)"}
+{"id":45,"usuario":"ana","comentario":"very good experience","fecha":"2025-02-14","fuente":"sin fuente","polarity":0.91,"subjectivity":0.78,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":46,"usuario":"juan","comentario":"i loved the service, everything very fast","fecha":"2025-02-15","fuente":"app","polarity":0.48,"subjectivity":0.79,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":47,"usuario":"carla","comentario":"does not apply","fecha":"2025-02-16","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":48,"usuario":"juan","comentario":"it doesn't work, i am very disappointed","fecha":"2025-02-16","fuente":"sin fuente","polarity":-0.98,"subjectivity":0.98,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":49,"usuario":"ana","comentario":"very good experience","fecha":"2025-02-16","fuente":"app","polarity":0.91,"subjectivity":0.78,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":50,"usuario":"lucas","comentario":"everything perfect, highly recommended","fecha":"2025-02-19","fuente":"webe","polarity":0.58,"subjectivity":0.77,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":51,"usuario":"sofia","comentario":"the product arrived earlier than expected","fecha":"2025-02-20","fuente":"webe","polarity":-0.05,"subjectivity":0.45,"cuadrante":"Q3 (Negativo - Objetivo)"}
+{"id":52,"usuario":"maria","comentario":"does not apply","fecha":"2025-02-21","fuente":"encuesta","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":53,"usuario":"rocio","comentario":"does not apply","fecha":"2025-02-22","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":54,"usuario":"facundo","comentario":"very bad service, i do not recommend it","fecha":"2025-02-23","fuente":"app","polarity":-0.91,"subjectivity":0.87,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":55,"usuario":"carla","comentario":"very bad service, i do not recommend it","fecha":"2025-02-24","fuente":"webe","polarity":-0.91,"subjectivity":0.87,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":56,"usuario":"facundo","comentario":"as expected, nothing more nothing less","fecha":"2025-02-25","fuente":"web","polarity":0.08,"subjectivity":0.32,"cuadrante":"Q4 (Positivo - Objetivo)"}
+{"id":57,"usuario":"anonimo_na","comentario":"very bad service, i do not recommend it","fecha":"2025-02-26","fuente":"app","polarity":-0.91,"subjectivity":0.87,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":58,"usuario":"diego","comentario":"average.","fecha":"2025-02-27","fuente":"encuesta","polarity":-0.15,"subjectivity":0.4,"cuadrante":"Q3 (Negativo - Objetivo)"}
+{"id":59,"usuario":"facundo","comentario":"they do not fulfill what they promise","fecha":"2025-02-28","fuente":"encuesta","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":60,"usuario":"rocio","comentario":"excellent service, i would return without hesitation","fecha":"2025-03-01","fuente":"web","polarity":1.0,"subjectivity":1.0,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":61,"usuario":"rocio","comentario":"as expected, nothing more nothing less","fecha":"2025-03-02","fuente":"web","polarity":0.08,"subjectivity":0.32,"cuadrante":"Q4 (Positivo - Objetivo)"}
+{"id":62,"usuario":"ana","comentario":"does not apply","fecha":"2025-03-03","fuente":"sin fuente","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":63,"usuario":"carla","comentario":"as expected, nothing more nothing less","fecha":"2025-03-04","fuente":"encuesta","polarity":0.08,"subjectivity":0.32,"cuadrante":"Q4 (Positivo - Objetivo)"}
+{"id":64,"usuario":"sofia","comentario":"they took forever, terrible","fecha":"2025-03-05","fuente":"web","polarity":-1.0,"subjectivity":1.0,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":65,"usuario":"martin","comentario":"does not apply","fecha":"2025-03-06","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":66,"usuario":"juan","comentario":"excellent service, i would return without hesitation","fecha":"2025-03-06","fuente":"app","polarity":1.0,"subjectivity":1.0,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":67,"usuario":"facundo","comentario":"acceptable.","fecha":"2025-03-08","fuente":"app","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":68,"usuario":"diego","comentario":"the product never arrived","fecha":"2025-03-09","fuente":"encuesta","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":69,"usuario":"martin","comentario":"the product never arrived","fecha":"2025-03-10","fuente":"sin fuente","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":70,"usuario":"diego","comentario":"as expected, nothing more nothing less","fecha":"2025-03-11","fuente":"encuesta","polarity":0.08,"subjectivity":0.32,"cuadrante":"Q4 (Positivo - Objetivo)"}
+{"id":71,"usuario":"carla","comentario":"does not apply","fecha":"2025-03-12","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":72,"usuario":"maria","comentario":"it doesn't work, i am very disappointed","fecha":"2025-03-13","fuente":"encuesta","polarity":-0.98,"subjectivity":0.98,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":73,"usuario":"sofia","comentario":"does not apply","fecha":"2025-03-14","fuente":"app","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":74,"usuario":"anonimo_na","comentario":"average.","fecha":"2025-03-15","fuente":"encuesta","polarity":-0.15,"subjectivity":0.4,"cuadrante":"Q3 (Negativo - Objetivo)"}
+{"id":75,"usuario":"rocio","comentario":"they do not fulfill what they promise","fecha":"2025-03-16","fuente":"app","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":76,"usuario":"martin","comentario":"the product never arrived","fecha":"2025-03-17","fuente":"encuesta","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":77,"usuario":"maria","comentario":"the product never arrived","fecha":"2025-03-18","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":78,"usuario":"facundo","comentario":"correct, no surprises","fecha":"2025-03-19","fuente":"app","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":79,"usuario":"diego","comentario":"it's fine, nothing special","fecha":"2025-03-20","fuente":"sin fuente","polarity":0.39,"subjectivity":0.54,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":80,"usuario":"juan","comentario":"very good experience","fecha":"2025-03-21","fuente":"encuesta","polarity":0.91,"subjectivity":0.78,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":81,"usuario":"ana","comentario":"does not apply","fecha":"2025-03-22","fuente":"encuesta","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":82,"usuario":"juan","comentario":"the product never arrived","fecha":"2025-03-23","fuente":"webe","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":83,"usuario":"lucas","comentario":"correct, no surprises","fecha":"2025-03-24","fuente":"app","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":84,"usuario":"maria","comentario":"the product arrived earlier than expected","fecha":"2025-03-25","fuente":"app","polarity":-0.05,"subjectivity":0.45,"cuadrante":"Q3 (Negativo - Objetivo)"}
+{"id":85,"usuario":"facundo","comentario":"does not apply","fecha":"2025-03-26","fuente":"app","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":86,"usuario":"sofia","comentario":"the product never arrived","fecha":"2025-03-27","fuente":"webe","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":87,"usuario":"carla","comentario":"does not apply","fecha":"2025-03-28","fuente":"app","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":88,"usuario":"carla","comentario":"it doesn't work, i am very disappointed","fecha":"2025-03-29","fuente":"app","polarity":-0.98,"subjectivity":0.98,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":89,"usuario":"carla","comentario":"correct, no surprises","fecha":"2025-03-30","fuente":"sin fuente","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":90,"usuario":"juan","comentario":"acceptable.","fecha":"2025-03-31","fuente":"sin fuente","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":91,"usuario":"diego","comentario":"as expected, nothing more nothing less","fecha":"2025-04-01","fuente":"sin fuente","polarity":0.08,"subjectivity":0.32,"cuadrante":"Q4 (Positivo - Objetivo)"}
+{"id":92,"usuario":"rocio","comentario":"it doesn't work, i am very disappointed","fecha":"2025-04-01","fuente":"web","polarity":-0.98,"subjectivity":0.98,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":93,"usuario":"facundo","comentario":"they do not fulfill what they promise","fecha":"2025-04-03","fuente":"webe","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":94,"usuario":"rocio","comentario":"does not apply","fecha":"2025-04-04","fuente":"encuesta","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":95,"usuario":"martin","comentario":"does not apply","fecha":"2025-04-05","fuente":"sin fuente","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":96,"usuario":"sofia","comentario":"it doesn't work, i am very disappointed","fecha":"2025-04-06","fuente":"webe","polarity":-0.98,"subjectivity":0.98,"cuadrante":"Q2 (Negativo - Subjetivo)"}
+{"id":97,"usuario":"lucas","comentario":"i loved the service, everything very fast","fecha":"2025-04-07","fuente":"app","polarity":0.48,"subjectivity":0.79,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":98,"usuario":"carla","comentario":"very good experience","fecha":"2025-04-08","fuente":"web","polarity":0.91,"subjectivity":0.78,"cuadrante":"Q1 (Positivo - Subjetivo)"}
+{"id":99,"usuario":"maria","comentario":"the product never arrived","fecha":"2025-04-09","fuente":"web","polarity":0.0,"subjectivity":0.0,"cuadrante":"Sin cuadrante (polaridad = 0)"}
+{"id":100,"usuario":"maria","comentario":"it doesn't work, i am very disappointed","fecha":"2025-04-10","fuente":"app","polarity":-0.98,"subjectivity":0.98,"cuadrante":"Q2 (Negativo - Subjetivo)"}
